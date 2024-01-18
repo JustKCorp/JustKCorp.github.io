@@ -1,54 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Diving into JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
-published: false
+published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+As far back as I can remember, my first obsession was the computer game named Minecraft. It tightly gripped my early childhood, with the fascination of open-world building and the opportunity to create friends online on a multiplayer server capturing my attention. As a child, my thirst for knowledge was fueled by fun and excitement rather than the forceful pressure of school. When I wanted to learn more about creating plugins and mods for Minecraft, I would spend hours learning basic Java on YouTube. I was exposed to Java at a young age, and only in college did I begin to dive deeper into advanced data structures and the implementation of more intricate functions and methods.
+Thus far, JavaScript is a very forgiving language; it's clean and simple. This is why I enjoy it more than Java. The syntax for JavaScript allows it to be easier to read and interpreted more efficiently than other languages such as C, C++, and Java. With the incorporation of ES6, it adds incremental changes that provide more powerful tools to the developer. The module provided a good introduction to ES6, and I learned many new things, from arrow functions to spread operators.
+I believe the concept of athletic software engineering is crucial for any programmer planning on making software engineering their career field. It provides a sense of heightened focus for those few minutes to be able to efficiently develop a solution. I think WODs are a simple but effective educational tool that helps promote critical thinking skills. Programming is a very perishable skill that requires constant use, or it can easily be forgotten. The constant repetition helps foster a strong base of knowledge and allows new concepts to be more easily learned. For me, the WODs provide me with a type of anxiety that is beneficial for growth. In order to improve in any field, I believe that one should be comfortable with being uncomfortable. I wouldn't say I love doing this type of learning, but I know that it will help me improve as a developer. So, I’ll start to love the things I hate.
