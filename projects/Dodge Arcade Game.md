@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/Pokemon.jpg
-title: "Cotton"
-date: 2014
-published: false
+title: "Pokemon Sprite"
+date: 2019
+published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A sprite game where you dodge incoming Pokemon."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+A game where I developed.
 
 
