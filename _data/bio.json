@@ -31,8 +31,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
+      "area": "Computer Science - Security Science",
+      "studyType": "B.S",
       "startDate": "2020-08-24",
       "endDate": "Present",
       "courses": [
@@ -52,19 +52,6 @@
         "Spearhead the coordination, installation, and upgrading of classified military hardware encryption devices for GPS, network, and radio equipment, ensuring top-level security and functionality."
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
  
     },
     {
