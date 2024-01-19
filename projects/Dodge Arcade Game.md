@@ -6,8 +6,10 @@ title: "Pokemon Sprite"
 date: 2019
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Java
+  - Eclipse
+  - EZImage
+
 summary: "A sprite shooter game where you dodge incoming Pokemon and shoot at them with fireballs."
 ---
 
