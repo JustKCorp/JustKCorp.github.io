@@ -34,7 +34,7 @@
       "studyType": "B.S",
       "startDate": "2020-08-24",
       "endDate": "Present",
-      "courses": ["ICS 111", "ICS 211", "ICS 212", "ICS 222", "ICS 141", "ICS 241", "ICS 311", "ICS 314", "ICS 355"]
+      "courses": ["ICS 111 Intro to Computer Science I", "ICS 211 Intro to Computer Science II", "ICS 212 Program Structure", "ICS 222 Basic Concepts of Computer Science ", "ICS 141 Discrete Math for CS I", "ICS 241 Discrete Math for CS II", "ICS 311 Algorithims ", "ICS 314 Software Engineering I", "ICS 321 Database Systems I", "ICS 355 Security and Trust I"]
     }
   ],
   "work": [
