@@ -10,10 +10,5 @@ labels:
   - G++
 summary: "A simple shape calculator that finds the area given the dimensions as input."
 ---
-
-This program defines a hierarchy of classes for various shapes such as Circle, Square,
-Sphere, Cylinder, Cube, Triangle, and Tetrahedron. Each class defines functions to calculate the 
-area and volume of the corresponding shape. The base class, Shape, provides virtual functions 
-for getting the name of the shape, printing its details, and taking input data. Each derived class 
-overrides the base class functions to provide their own implementation. 
+This program establishes a hierarchy of classes for different shapes, including Circle, Square, Sphere, Cylinder, Cube, Triangle, and Tetrahedron. Each class incorporates functions to compute the area and volume of the respective shape. The foundational class, Shape, furnishes virtual functions to retrieve the shape's name, print its details, and collect input data. Every derived class customizes these base class functions to offer their individualized implementations.
 
