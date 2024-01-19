@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Diving into JavaScript"
+title: "Interest with Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-01-18
 published: true
 labels:
   - Engineering
+  - Hopes
+  - Goals
 ---
 ## Fuel
 I've always been deeply fascinated by the inner workings of websites, programs, and applications. The effort involved in front-end and back-end development can be quite daunting, especially considering the thousands of apps uploaded to the app store and the constant creation of new websites and programs by numerous developers. The entire development process feels like an ongoing battle with your mind. Spending hours solving compile errors or fixing functions that aren't working properly can be challenging, but that "eureka" moment and the rush of dopamine that follows make it all worthwhile. I've always loved that sense of accomplishment and enjoy seeing the fruits of my labor come to life. Therefore, my interests lie in creating challenging projects that not only push my limits but also have meaningful purposes.
