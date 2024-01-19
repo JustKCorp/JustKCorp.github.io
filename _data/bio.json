@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++" ]
+      "keywords": [ "Windows, Ubuntu, Linux, Git/GitHub, g++, Eclipse, IntelliJ IDEA, CLion" ]
     }
   ],
   "education": [
@@ -55,8 +55,8 @@
       "organization": "",
       "website": "",
       "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2022",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Grey Hats Club Member",
