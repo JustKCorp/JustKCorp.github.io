@@ -10,13 +10,13 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JustKCorp", "url": "https://github.com/JustKCorp" },
-      { "network": "linkedin", "username": "Justin Corpuz", "url": "https://www.linkedin.com/in/justin-corpuz-0070952aa/" },
+      { "network": "linkedin", "username": "Justin Corpuz", "url": "https://www.linkedin.com/in/justin-corpuz-0070952aa/" }
     ]
   },
   "interests": [
     { "name": "CyberSecurity" },
     { "name": "Network Engineering" },
-    { "name": "Information Technology" },
+    { "name": "Information Technology" }
   ],
   "skills": [
     {
@@ -35,8 +35,7 @@
       "studyType": "B.S",
       "startDate": "2020-08-24",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -52,8 +51,6 @@
         "Spearhead the coordination, installation, and upgrading of classified military hardware encryption devices for GPS, network, and radio equipment, ensuring top-level security and functionality."
       ]
     },
- 
-    
     {
       "organization": "",
       "website": "",
@@ -62,15 +59,12 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Grey Hats Club Member"
+        "Grey Hats Club Member",
         "Participated with a team in Hivestorm, a collegiate-focused cyber defense competition"
       ]
     }
-  
-  
+  ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
-
+}
