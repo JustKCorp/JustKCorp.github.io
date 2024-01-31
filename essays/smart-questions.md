@@ -10,7 +10,7 @@ labels:
   - Answers
   - StackOverflow
 ---
-
+//new change
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Is there such thing as a stupid question?
