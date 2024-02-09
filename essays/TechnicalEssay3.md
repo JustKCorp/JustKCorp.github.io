@@ -9,7 +9,7 @@ labels:
   - ESLint
 
 ---
-
+<img class="img-fluid" src="../img/GreenCheckMark.jpg" width="300" height="200">
 ## The Big Picture
 When people first think of coding, they often envision the big picture: runtime analysis and algorithm efficiency. What many tend to overlook is the formatting of the code and its appearance to a developer. Much like essays, code can look drastically different depending on which developer wrote it. One way to standardize the appearance and understanding of code is to implement coding standards and practices, such as ESLint. This allows all code to have a standardized appearance that aids any developers who may come across it, enabling them to fully understand and comprehend the expected output and behavior of the methods and functions.
 
