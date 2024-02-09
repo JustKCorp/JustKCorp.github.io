@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "T"
+title: "The Pursuit of Perfection"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
