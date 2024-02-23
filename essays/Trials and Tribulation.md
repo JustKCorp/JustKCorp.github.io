@@ -12,7 +12,7 @@ labels:
 
 ---
 
-## SquareSpace Supremacy <img class="img-fluid" src="../img/channels4_profile.jpg" width="75" height="50">
+## SquareSpace Supremacy <img class="img-fluid" src="../img/channels4_profile.jpg" width="50" height="30">
 My first interaction with HTML was in middle school when my friends and I played around with the inspect element feature on Chrome, altering anything and everything we could. From changing text on the screen to the colors the webpage displayed, I felt like a computer wizard performing these alterations. At the time, I didn't really understand what I was doing, let alone what HTML even was. All I knew was that by changing a couple of values and text, I could create something cool and special. Now, after doing countless WODs and exercises in HTML, I’ve come full circle with my childhood self. However, with a deeper understanding, I can see how complicated it can get. HTML isn't that difficult on its own. It's when you want to jump out of the '90s website design and create something more unique that you can call yours. The difficulty doesn't lie with HTML, as it's used to just get the info and images onto the page. The real challenge comes with making it all work together—from fonts, color, sizes, borders, text alignment, etc. However, CSS may not have the necessary tools to help you create the image for your website. That’s when Bootstrap comes in and provides an abundant amount of tools and features to aid in this process. But, this doesn’t mean we should throw CSS to the wayside, as it's a fundamental building block in understanding the design of a website and you may never know when it can come back to help you.
 
 <img class="img-fluid" src="../img/boring.jpg" width="500" height="350">
