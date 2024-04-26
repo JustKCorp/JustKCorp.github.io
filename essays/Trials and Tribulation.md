@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Pursuit of Perfection"
+title: "Trials and Tribulation"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
