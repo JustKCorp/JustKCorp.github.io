@@ -13,9 +13,9 @@ labels:
 
 ### I. Introduction
 
-As A.I technologies become more prevalent within our society, more people begin to be exposed to this tool. Whether it be from directly utilizing L.L.M models like chatGPT, copilot, bard to samsung's bixby or apple's siri.
+As A.I technologies become more prevalent within our society, more people begin to be exposed to these tools. Whether it be from directly utilizing L.L.M models like chatGPT, copilot, bard. To interacting with A.I assistants such as, samsung's bixby or apple's siri.
 
-In my personal experience with ChatGPT, it has been a helpful tool to find errors or try to understand the significance of a line of code. I do think it is important that users use the program with discretion as it is not always accurate.
+With my experience using ChatGPT, it has been a helpful tool to find errors or try to find the purpose behind the structure of code. I do think it is important that users of these LLMs understand that they can be wrong and you wouldn't know it because they provide these answers with such confidence it can be deceiving. So, they need to utilize these reponses with due diligence to ensure it is accurate. In order to do this then they need to already have a good foundational understanding of the topic first.
 
 ### II. Personal Experience with AI:
 
