@@ -10,7 +10,9 @@ labels:
   - ChatGPT
   - AI
 ---
-
+<div class="text-center p-4">
+  <img width="300px" src="../img/irobot.webp" class="img-thumbnail" >
+</div>
 ### I. Introduction
 
 As A.I technologies become more prevalent within our society, more people begin to be exposed to these tools. Whether it be from directly utilizing L.L.M models like chatGPT, copilot, bard. To interacting with A.I assistants such as, samsung's bixby or apple's siri.
