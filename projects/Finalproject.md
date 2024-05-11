@@ -24,7 +24,7 @@ summary: "My groups Final project for ICS 314."
 
   At the very beginning, we were ambitious about the features we wanted to implement and the overall design. However, we quickly realized the extensive amount of work required to achieve this vision. As a result, we opted for a simple yet friendly design, with the primary goal of making it easier for users to access the catalog of clubs, and search for and filter clubs according to their interests. 
 
-  <img class="img-fluid" src="../img/mainrole.jpg" width="600" height="300" style="float: left; margin-right: 25px;">
+  <img class="img-fluid" src="../img/mainrole.jpg" width="500" height="200" style="float: left; margin-right: 25px;">
 
 ### My Role
 
